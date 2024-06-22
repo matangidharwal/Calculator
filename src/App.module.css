@@ -1,0 +1,13 @@
+*{
+  background-color: rgb(160, 179, 185);
+  
+}
+
+.calculator {
+  border: 1px solid rgba(90, 90, 90);
+  width: 200px;
+  border-radius: 5px;
+  background-color: black;
+}
+
+
